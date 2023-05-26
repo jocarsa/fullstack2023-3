@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg19501"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="cajanegra.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19503"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0888418"
+     inkscape:cx="337.98634"
+     inkscape:cy="508.89444"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs19498">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1.147;stroke-linecap:round;stroke-linejoin:round"
+       id="rect21108"
+       width="57.142941"
+       height="73.80217"
+       x="23.824488"
+       y="93.50663"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#ffffff;stroke:#000000;stroke-width:1.147;stroke-linecap:round;stroke-linejoin:round"
+       x="57.125946"
+       y="99.938751"
+       id="text21112"><tspan
+         sodipodi:role="line"
+         id="tspan21110"
+         style="fill:#ffffff;stroke:none;stroke-width:1.147"
+         x="57.125946"
+         y="99.938751">caja negra</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.147;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 120.71183,110.19862 H 85.245601"
+       id="path21168" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.147;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 81.746018,141.35823 H 117.21225"
+       id="path21198" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:#000000;stroke-width:1.147;stroke-linecap:round;stroke-linejoin:round"
+       x="99.432076"
+       y="108.17198"
+       id="text21204"><tspan
+         sodipodi:role="line"
+         id="tspan21202"
+         style="fill:#000000;stroke:none;stroke-width:1.147"
+         x="99.432076"
+         y="108.17198">entradas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:#000000;stroke-width:1.147;stroke-linecap:round;stroke-linejoin:round"
+       x="99.432076"
+       y="139.45825"
+       id="text21310"><tspan
+         sodipodi:role="line"
+         id="tspan21308"
+         style="fill:#000000;stroke:none;stroke-width:1.147"
+         x="99.432076"
+         y="139.45825">salidas</tspan></text>
+  </g>
+</svg>
