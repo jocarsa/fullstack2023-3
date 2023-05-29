@@ -1,0 +1,1 @@
+CREATE TABLE `aplicacion`.`entradas` (`Identificador` INT(255) NOT NULL AUTO_INCREMENT , `titulo` VARCHAR(255) NOT NULL , `texto` VARCHAR(255) NOT NULL , `imagen` VARCHAR(255) NOT NULL , `orden` INT(255) NOT NULL , `FK_usuarios_nombredeusuario` INT(255) NOT NULL , PRIMARY KEY (`Identificador`)) ENGINE = InnoDB;
