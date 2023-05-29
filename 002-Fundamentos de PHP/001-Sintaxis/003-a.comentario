@@ -1,0 +1,11 @@
+Cometer errores es algo muy frecuente, no solo en el lenguaje de programación PHP, sino en cualquier lenguaje informático.
+
+Debemos tener cuidado al respetar las reglas de sintaxis de este lenguaje, ya que, de lo contrario, el código que escribamos no se ejecutará correctamente, y, en su lugar, y tal y como podemos ver en la captura a continuación del código del ejercicio, el navegador arrojará el error.
+
+Tendremos en cuenta que en Programacion existen dos grandes grupos de errores, que son los errores de sintaxis, y los errores lógicos.
+
+Mucho más adelante discutiremos los errores lógicos y en qué consisten, pero de momento, teniendo en cuenta que estamos al principio de nuestro aprendizaje con Php, deberemos tener en cuenta qué vamos a centrarnos en los errores de sintaxis.
+
+Cuando un error de sintaxis exista, será importante leer correctamente el mensaje de error que aparecerá en el navegador web, ya que, en una gran cantidad de ocasiones, el propio mensaje de error contiene, tanto una descripción acerca de la naturaleza del error, en algunas ocasiones consejos para poder arreglarlo, y, por último, lo más importante, el archivo donde se encuentra el error, y la línea, aunque sea de forma aproximada, donde el intérprete ha encontrado dicho error.
+
+Esta información es imprescindible para poder localizar correctamente el error, saber qué tipo de errores estamos buscando, y solucionarlo lo antes posible.

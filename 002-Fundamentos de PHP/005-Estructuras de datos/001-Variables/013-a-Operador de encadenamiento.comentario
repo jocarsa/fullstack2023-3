@@ -1,0 +1,22 @@
+En prácticamente cualquier lenguaje de programación, muchas veces es necesario encadenar cadenas de caracteres con variables, u otros tipos de contenedores de datos.
+
+
+
+Cuando esto ocurre, es necesario utilizar un operador de encadenamiento.
+
+
+
+El operador de encadenamiento nos permite, por lo tanto, Presentar de forma conjunta tanto cadenas arbitrarias de caracteres, alfanumérícoos, como el contenido de diferentes variables.
+
+
+
+Aunque Php es un lenguaje de programación que deriva del lenguaje C, y el lenguaje C, así como en una gran cantidad de lenguajes de programación derivados, el operador de encadenamiento es el símbolo más, por suerte en PHP encontramos que el operador de encadenamiento es el punto.
+
+
+
+Esto es importante, y pienso que muy conveniente, porque en muchos otros lenguajes de programación en ocasiones el intérprete tiene dificultades para saber si el operador que se está utilizando en un momento dado es un operador de encadenamiento o es un operador de su MARÍN médica.
+
+
+
+En cambio, en el caso de Php, teniendo en cuenta que el operador de su marido médica es un signo más, y el operador de encadenamiento es el punto, no tendremos dificultades, y sobre todo el intérprete no tendrá dificultades, para Interpretar correctamente cada uno de los dos.
+

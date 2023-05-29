@@ -1,0 +1,17 @@
+En la estructura de control. Favor encontramos que, en la propia declaración de la estructura, tenemos tanto la condición de inicialización, como la condición de finalización, como la condición de incremento.
+
+
+
+Disponemos también de una estructura de control llamada Wael, en la cual, dentro de los paréntesis, se introduce únicamente la condición de finalización.
+
+
+
+Si ejecutó el ejemplo que se muestra a continuación, encontraré Varias cosas.
+
+
+
+En primer lugar, estoy Supeditado la finalización de la ejecución a la declaración previa de una variable que realmente no he declarado antes.
+
+
+
+Y sobre todo, aunque estoy declarando la condición de finalización, no estoy declarando la condición de incremento, con lo cual, el siguiente bloque de código, no solo va a provocar una advertencia en el momento en el que estoy utilizando una variable que no es declarado anteriormente, sino que, sobre todo, Estaría provocando un bucle infinito, ya que en todo caso, la validación que hay dentro de la estructura de control, siempre resultará ser cierta.

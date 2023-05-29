@@ -1,0 +1,3 @@
+Los archivos PHP contienen, de forma nativa, texto, interpretable como HTML y lo ejecutamos directamente en un navegador web.
+
+Por esto, si escribimos directamente texto dentro de un archivo, aunque tenga la extensión Php, no se interpretará como tal, sino que se lanzará directamente en la pantalla del navegador cuando invoquemos a esa dirección.

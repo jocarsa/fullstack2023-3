@@ -1,0 +1,25 @@
+Anteriormente, hasta el momento, hemos visto como podemos utilizar colecciones de datos de tipo unidimensional. Es decir, teníamos una primera dimensión, consistente en un índice, y esto nos permite añadir tantos elementos dentro de ese índice como queramos.
+
+
+
+Sin embargo, en este siguiente ejemplo vamos a demostrar como, por una parte, podemos no estar limitados a la realización de colecciones unidimensionales, sino que podemos crear colecciones multidimensionales.
+
+
+
+Si una colección unidimensionales algo así como los elementos de una lista, una colección bidimensional es algo así como una tabla dentro de una hoja de cálculo, y una colección tridimensional sería algo así como las cajas apiladas encima de un Palet.
+
+
+
+De hecho en PHP, como en prácticamente cualquier otro lenguaje de programación, no estamos limitados a realizar colecciones tridimensionales, sino que podemos realizar colecciones de tantas dimensiones como necesitemos, aun así, sin embargo, especialmente para el usuario novel, a veces resulta Difícil visualizar dichas dimensiones cuando tienen más de tres, ya que estamos acostumbrados a trabajar con un máximo de tres dimensiones espaciales en el mundo que conocemos.
+
+
+
+Por otra parte el siguiente ejercicio también refleja la posibilidad que tenemos en Php de, no solo utilizar índices numéricos, sino también utilizar índices, alfanumérícoos.
+
+
+
+Siguiendo con el ejercicio de la agenda, en este caso, no solo queremos guardar el nombre, sino que además, para cada uno de los registros, queremos guardar el nombre, el teléfono, y el correo electrónico.
+
+
+
+De esta forma, como podemos ver el ejemplo, creando una colección de datos bidimensional, podemos introducir estos datos, y además de una forma que resulta clara desde el punto de vista de, más adelante, poder recuperar la información.

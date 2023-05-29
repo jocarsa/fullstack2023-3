@@ -1,0 +1,21 @@
+Sin embargo, el uso de colecciones en PHP es tremendamente sencillo, especialmente si lo comparamos con otros lenguajes de programación.
+
+
+
+Tomando el ejemplo anterior de la agenda, simplemente tenemos que utilizar el mismo identificador, pero, a continuación, encerrado entre corchetes, introduciremos el índice de la colección.
+
+
+
+En el ejemplo que se muestra a continuación, hemos utilizado índices numéricos, donde, en este caso, empezamos en el número cero, ya que, aunque podemos empezar perfectamente el índice número uno, es una costumbre bastante extendido largo de los lenguajes de programación que el primer elemento de una colección sea el cero y no el uno.
+
+
+
+Por lo tanto, como se puede mostrar en la ejecución del siguiente ejemplo, al introducir cada uno de estos dos elementos dentro de un elemento de una colección, veremos que escribir el segundo no elimina en absoluto el primero, y por tanto, podemos mantener los dos elementos en la memoria.
+
+
+
+Introducción de nuevos elementos dentro de la colección
+
+
+
+Por lo tanto, partiendo desde el ejemplo anterior, veremos que podemos aumentar ilimitadamente Los datos que se encuentran dentro de la colección, añadiendo tantos elementos a dicha colección, como sea necesario, en un momento dado.

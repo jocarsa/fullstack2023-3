@@ -1,0 +1,32 @@
+En una gran cantidad de casos, mientras desarrollamos programas informáticos, necesitamos almacenar información, de forma variable, en contenedores habilitados para ello.
+
+Éstos contenedores temporales de información nos permiten trabajar con piezas de datos que circulan a lo largo del programa, y con las cuales vamos, poco a poco, realizando operaciones.
+
+Por lo tanto, de los tipos de contenedores, que puede presentar un lenguaje de programación, las variables son el más sencillo de ellos.
+
+Por una parte debemos tener en cuenta que Php es un lenguaje débilmente tipificado, lo cual quiere decirte, a priori, y en principio, no es obligatorio, quedé traeremos el tipo de dato que vamos a utilizar, sino que, el intérprete, en tiempo de ejecución, recibirá el tipo de dato más idóneo para cada una de las variables.
+
+La declaración de una variable consiste, en primer lugar, de la introducción de un identificador, que también se conoce como nombre de la variable.
+
+A continuación usaremos un solo símbolo igual, que consiste en el operador de asignación.
+
+Nos debemos confundir el operador de Igual, en una sola ocurrencia, que corresponde al operador de asignación, con los operadores que hemos visto anteriormente, que son los dos símbolos iguales, que son el operador de comparación.
+
+Justo a continuación de la igualdad, a la derecha, aparecerá el valor que se le asigna al identificador, donde el identificador es lo que encontramos a la izquierda de la igualdad.
+
+Y por supuesto, como una declaración de una variable, al final es una instrucción, deberemos finalizar la declaración con un;.
+
+En el siguiente ejemplo se muestran una serie de ejemplos con casos válidos y casos no válidos para declaraciones de variables.
+
+Especialmente debemos tener en cuenta que, cuando el número de una variable se compone de varias palabras, podemos utilizar los guiones bajos, pero no podemos utilizar espacios.
+
+En el siguiente ejemplo se Muestran Tanto ejemplos válidos como ejemplos no válidos, pero los ejemplos no válidos. San sido introducidos dentro de comentarios, para que el intérprete no a ROGER errores en el momento de la ejecución.
+
+Por otra parte, los nombres de las variables pueden contener números, pero siempre que el número no ocupe la primera posición dentro del identificador.
+
+A partir de la segunda posición, deberemos y podremos poner tantos números como sea necesario.
+
+Por otra parte, desde hace unas cuantas versiones de Php, al presentar soporte para Unicode, podemos Tanto usar Ñ como utilizar vocales con acentos en el momento de declarar identificadores de variables, aunque mi opinión personal, por compatibilidad, consiste en no utilizar caracteres como los que he descrito.
+
+Por último, debemos también tener en cuenta que Php es un lenguaje sensible al caso de las letras, lo cual quiere decir, que diferencia entre mayúsculas y minúsculas, y, por lo tanto, como podemos ver al final del ejemplo que se muestra a continuación, Usar y definir una variable con mayúsculas o con minúsculas, para el intérprete, supone declarar dos variables completamente diferentes.
+

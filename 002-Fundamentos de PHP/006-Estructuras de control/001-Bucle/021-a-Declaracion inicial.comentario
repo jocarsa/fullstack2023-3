@@ -1,0 +1,18 @@
+En el siguiente ejemplo, se muestra la declaración y el uso de una estructura de control de bucle de tipo While, en el cual, en primer lugar, declaramos el valor inicial de la variable día.
+
+
+
+Sin embargo, este ejemplo arregla uno de los dos fallos, ya que ya tenemos la declaración de la variable que luego se valida dentro de la estructura de control, pero seguimos sin tener el incremento de dicha variable, con lo cual, la validación de la condición siempre va a resultar ser cierta, y el programa entrará en un bucle infinito.
+
+
+
+El problema realmente no consiste en que un programa informático entra en un bucle infinito, ya que hay multitud de programas informáticos que vas a su funcionamiento en los bucles infinitos.
+
+
+
+El problema en este caso consiste en que hemos entrado en un bucle infinito, no deseado y no controlado, lo cual puede llevar a un consumo excesivo de recursos por parte del sistema, en este caso, por parte del servidor.
+
+
+
+Por lo tanto, es muy probable que, cualquier servidor, donde ejecutemos este código, tenga algún método de protección mediante el cual, cuando el script no responda en una serie de segundos, el servidor corte automáticamente la conexión para protegerse, asimismo.
+

@@ -1,0 +1,27 @@
+Los comentarios existen en Php, como en la gran mayoría de lenguajes de programación, para poder cumplir tres finalidades principales:
+
+La primera de las finalidades consiste en poder dejarnos comentarios para nosotros mismos en el futuro, para poder documentar qué es lo que estamos haciendo en nuestro código, y para poder recordar esa información más adelante, cuando quizás, dentro de un tiempo, quizás seis meses, quizás un año, quizás dos, podamos abrir nuestro propio código, y podamos necesitar recordar algunas de las razones por las cuales hicimos lo que hicimos.
+
+La segunda de las finalidades consiste en poder dejar comentarios en lenguaje humano para que otros usuarios los lean. Esto es importante, especialmente cuando estamos trabajando en un equipo, y hay varias personas evitando el mismo código fuente.
+
+La tercera razón por la cual los comentarios son interesantes. Es que nos permiten desactivar partes de código.
+
+En ocasiones necesitamos, no borrar, sino desactivar, bloques enteros de código, por lo cual, los comentarios nos permiten realizar esta función.
+
+En PHP, como en la gran mayoría de lenguajes, los comentarios tienen dos formas,
+
+Por una parte tenemos los comentarios de una única línea, y por otra parte tenemos los comentarios multilínea.
+
+Los comentarios de una única línea vienen definidos por una doble/.
+
+Todo el texto que se encuentra a continuación de esa doble/, se considerará un comentario, hasta el siguiente salto de línea.
+
+Los comentarios multilínea comienzan con la combinación de caracteres Barrallo*, y a partir de ahí, Todo el código que se encuentre a continuación, será considerado como un comentario, independientemente de que en ese texto encontremos saltos de línea.
+
+En el momento en el que encontremos una combinación de caracteres de*/, en ese caso, se considerará que el comentario multilínea habrá finalizado, y todo el texto que se encuentra a continuación, volverá a ser interpretado como código Php.
+
+En este siguiente ejemplo podemos encontrar que, al abrir el código Php, Tenemos una primera línea consistente en un comentario de línea sencilla, y a continuación, tenemos tres líneas en un comentario multilínea.
+
+Será importante darnos cuenta, en la salida por pantalla, que los comentarios no se interpretan, y por lo tanto, no se representan como código HTML, y no se envían al navegador.
+
+Esto quiere decir que el navegador dichos comentarios no aparecen, ni siquiera tampoco Dentro de la inspección de código fuente del archivo.

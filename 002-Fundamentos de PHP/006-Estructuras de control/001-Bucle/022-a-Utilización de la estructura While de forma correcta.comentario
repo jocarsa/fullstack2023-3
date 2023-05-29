@@ -1,0 +1,25 @@
+Por lo tanto, en el siguiente ejemplo, se muestra cómo utilizar la estructura de control de una forma correcta, ya que, como podemos comprobar, disponemos, ahora, de una condición de inicialización antes del bucle, de una condición de finalización en los paréntesis del bucle, y de una condición de incremento dentro de los corchetes y de las llaves del bucle.
+
+
+
+Utilización de la estructura de control Ford para revisar de forma automatizada el contenido de una colección.
+
+
+
+A continuación vamos a combinar varias de las cosas que hemos aprendido hasta el momento, y es que, volviendo al ejercicio anterior de la agenda, habíamos comprobado cómo éramos capaces de acceder a cada uno de los índices de la colección, pero, para obtener todo el contenido de todos los índices, tendríamos que ir uno a uno lanzando los por pantalla.
+
+
+
+Por lo tanto, en este ejercicio, vamos a ilustrar cómo podemos utilizar las estructuras de control de bucle precisamente para automatizar esta tarea.
+
+
+
+En primer lugar voy a hacer uso de una variable llamada longitud, para utilizar una de las muchas funciones que tenemos disponibles para tratar agendas dentro de Php. La función de Count, nos permite obtener el número de elementos que tiene una colección.
+
+
+
+Por lo tanto, utilizaré, a continuación, una estructura de bucle Ford, para empezar en el índice cero, terminar en la longitud que tenga la colección, y Aumentar la estructura de control de bucle los elementos de uno en uno.
+
+
+
+Dentro de las llaves, introduciré una instrucción que me permitirá sacar por pantalla, uno a uno todos los elementos de la colección.

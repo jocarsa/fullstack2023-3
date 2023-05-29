@@ -1,0 +1,29 @@
+Por una parte, cuando trabajamos con una variable, observamos que el valor de la variable va cambiando durante el uso del programa.
+
+
+
+Esto es conveniente, y lo utilizaremos en una gran cantidad de ocasiones durante el desarrollo de programas informáticos.
+
+
+
+Las variables son algo así como cajas, son contenedores de información, pero muchas veces ocurre que, sí Deseamos introducir una nueva pieza de información, es porque tenemos que sacar la pieza de información que previamente existía dentro de esa caja.
+
+
+
+Por eso precisamente se llama a Maria Dolores, ya que su resultado puede variar.
+
+
+
+Sin embargo, hay veces que nos interesa introducir información en cajas, pero hay veces que necesitamos que nuestro contenedor de información tenga espacio para meter no solo una pieza de información, sino varias piezas, algo así como por ejemplo lo que ocurre en un armario o en una estantería.
+
+
+
+Cuando ocurre eso, podemos utilizar estructuras de datos más avanzados, tal como por ejemplo las colecciones.
+
+
+
+Por lo tanto, en este primer ejemplo, en primer lugar, ilustramos el ejemplo de lo que ocurriría si intentáramos generar una agenda utilizando variables.
+
+
+
+Lo que ocurriría, por tanto, es que cada registro nuevo borraría el registro anterior, lo cual haría que la agenda no fuera especialmente útil para un usuario final.

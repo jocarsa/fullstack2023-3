@@ -1,0 +1,17 @@
+Los operadores de comparación nos permiten obtener el resultado, verdadero o falso, de la comparación de dos operandos.
+
+A continuación, en el siguiente ejemplo, se muestran los casos más comunes de operadores de comparación.
+
+En el primero de los ejemplos, podremos observar que tenemos la comparación correspondiente a comprobar si un valor es menor que el otro.
+
+Deberemos tener en cuenta que el resultado de las comparaciones es verdadero o falso.
+
+Adicionalmente, en función de las diferentes versiones de Php, la forma de representar por pantalla, será diferente en unos casos y en otros.
+
+Con respecto al valor verdadero, en ocasiones podremos ver en la pantalla representado el número uno, y en otras ocasiones podremos ver representada la palabra True.
+
+Sin embargo, en el caso del valor falso, en ocasiones veremos representado el número cero, en otras ocasiones veremos representada la palabra reservada Falls, pero, sin embargo, en otras ocasiones, no veremos ninguna representación gráfica en la salida por pantalla.
+
+en ocasiones pensaremos que esto se debe a algún tipo de error, porque esperaremos ver el resultado de la comparación en pantalla, pero sin embargo, el hecho de que no veamos nada, no quiere decir que la ejecución del código haya fallado, sino que únicamente querrá decir que el sistema devuelve, como falso, un conjunto vacío.
+
+No debemos preocuparnos porque, al final, aunque el intérprete no devuelva nada visualmente por pantalla, lo importante será que, internamente, sí que estará entendiendo el concepto de comparación falsa.

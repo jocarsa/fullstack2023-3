@@ -1,0 +1,25 @@
+Para ello, el primer bucle que vamos a presentar dentro de este apartado, corresponde a la estructura de control Ford.
+
+
+
+Las estructuras de control están pensadas para repetir una operación múltiples veces, por parte del programa informático.
+
+
+
+Por lo tanto, dentro de esta estructura de control de bucle, encontraremos tres condiciones, que son, en primer lugar, la condición de partida, la condición de finalización, y la colección y la condición de incremento.
+
+
+
+Por otra parte, prácticamente todas las estructuras que vamos a encontrar en este apartado, presentarán la siguiente estructura.
+
+
+
+Por una parte encontramos el nombre de la estructura de control, y a continuación, dentro de los paréntesis, encontramos las condiciones de ejecución.
+
+
+
+Una vez que acaban los paréntesis, encontramos dos llaves, una de apertura y una vez cierre, donde, todo el código que ejecute esa estructura de control, ir a encerrado entre estas llaves.
+
+
+
+Es importante notar que, en la estructura de control Ford, la separación entre las condiciones de inicio, la condición de finalización, y la condición de incremento, estarán separadas con un;.

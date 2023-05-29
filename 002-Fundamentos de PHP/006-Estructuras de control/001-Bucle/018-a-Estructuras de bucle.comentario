@@ -1,0 +1,9 @@
+Supongamos que quiero obtener, con Php, todos los días del mes, desde el día uno, hasta el día 31.
+
+
+
+Para ello, podría empezar a realizar un código como el que se muestra en el ejemplo a continuación, es decir, podrían empezar a lanzar por pantalla mensajes correspondientes a todos y cada uno de los días del mes.
+
+
+
+Sin embargo, en el momento en el que me encuentre repitiendo varias veces un mismo código, encontraré que, probablemente, debería haber una forma más fácil de realizar esa operación

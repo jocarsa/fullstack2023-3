@@ -1,0 +1,12 @@
+Mediante los operadores bóleanos realizamos comparaciones de dos o más grupos de operadores que, generalmente, suelen ser de comparación.
+
+Existen múltiples tipos de operadores, bóleanos, pero, en este caso, vamos a introducir los dos operadores más frecuentes, y que se usan en la gran mayoría de los casos, que son el operador ANDER y el operador hora.
+
+En cuanto al operador ANDER, Puede validar no solo dos grupos de operaciones de comparación, sino tantos grupos como queramos, pero con la condición de que todas las parejas de comparaciones deben resultar ciertas para que la operación Burriana global resulte cierta.
+
+Así, por lo tanto, en el siguiente ejemplo, la primera Expresión resulta cierta, porque las dos comparaciones son ciertas, pero, sin embargo, en el segundo ejemplo, la expresión global Burriana resulta ser falsa, porque las dos comparaciones válidas, una es cierta, pero la la otra es falsa.
+
+En el segundo ejemplo, sin embargo, trabajamos con el operador lógico hora.
+
+Para que el operador lógico resulte cierto, al menos una de las comparaciones debe ser cierta. Por ello, en el tercer ejemplo, el resultado de la comparación resulta cero cierto, pero, sin embargo, en el cuarto caso, vemos que, en el caso de que todas las comparaciones realizadas resulten falsas, aún incluso utilizando el operador juliano or, el resultado global de la comparación resulta ser falso.
+

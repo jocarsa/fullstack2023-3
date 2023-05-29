@@ -1,0 +1,16 @@
+Los operadores aritméticos son los más sencillos, dentro de los diferentes tipos de operadores que encontramos en Php, y nos permiten realizar operaciones aritméticas comunes con diferentes parejas de operandos.
+
+A continuación se muestra un ejemplo de cómo utilizar los operadores aritméticos más sencillos y más comunes, dentro de Php.
+
+En este ejemplo, encontramos varios operadores, donde se ha introducido una instrucción de salida en pantalla, con el único objetivo de indicar claramente, y de forma visual, Cuál es el operador que estamos usando en cada caso.
+
+En cuanto al operador de suma, el símbolo que representa esta operación es el signo más, hola Cruz.
+
+En cuanto al operador de resto, el símbolo que se suele utilizar es el guion medio.
+
+En cuanto al operador de multiplicación, se utiliza, dentro de Php, el símbolo del*. Es importante tener en cuenta que este símbolo se utiliza en algunos lenguajes de programación, pero sin embargo, en otros, como el lenguaje SQL, el*, como veremos más adelante, tiene otro significado completamente diferente.
+
+En el caso de la división, usaremos el carácter de la barra, que no conviene confundir con el carácter de la\.
+
+Y, por último, en este ejemplo, para realizar la operación aritmética de la obtención del resto entero de la división, usaremos el símbolo del porcentaje.
+

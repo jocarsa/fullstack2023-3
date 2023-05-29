@@ -1,0 +1,10 @@
+En el siguiente ejercicio, vamos a demostrar cómo podemos combinar código HTML con código PHP, sin ningún tipo de problema.
+
+Dentro de un archivo PHP, siempre que queramos utilizar código PHP, simplemente tendremos que utilizar la apertura, consistente en poner un carácter de menor que, una interrogante, y la llamada a Php.
+
+Todo el código que haya a continuación, será considerado como código Php.
+
+Para finalizar ese bloque de código Php, tendremos que poner un interrogante y un signo de >, por lo cual, todo el texto que haya a partir de ese cierre, se considerará como texto plano o como contenido HTML dentro del navegador.
+
+Además, tal y como se demuestra en el ejercicio a continuación, podemos abrir y cerrar HTML tantas veces como sea necesario dentro de un documento, y de esta forma podemos personalizar y podemos adaptar a nuestras necesidades la presencia de código PHP dentro de una página HTML.
+

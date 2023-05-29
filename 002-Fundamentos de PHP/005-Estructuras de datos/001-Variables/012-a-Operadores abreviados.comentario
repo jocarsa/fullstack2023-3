@@ -1,0 +1,10 @@
+Ahora que estamos trabajando con variables, es cuando podemos presentar una serie de operadores, que no podíamos presentar en el apartado anterior, ya que para utilizarlos es necesario utilizar estructuras de datos, tal y como, por ejemplo, las variables.
+
+Los operadores abreviados nos permiten realizar operaciones que podrían realizarse con más coste de caracteres, de una forma sencilla.
+
+Por lo tanto, en la primera parte del ejemplo que se presenta a continuación, podemos comprobar como encontramos operadores abreviados para realizar sumas, para realizar restas, para realizar multiplicaciones, o para realizar divisiones.
+
+Por otra parte, al final del ejercicio, podemos encontrar los clásicos, operadores de incremento y de decremento, Donde en Php existen tanto los operadores de Post incremento como los operadores de pre incremento, y de la misma forma, existen el Post decremento y el pre incremento.
+
+Para el ejemplo que se muestra a continuación hemos utilizado únicamente de los operadores de Post incremento y de Post decremento que son los operadores que se usan con más frecuencia.
+
