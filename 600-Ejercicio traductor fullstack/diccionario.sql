@@ -1,0 +1,1 @@
+CREATE TABLE `aplicacion`.`diccionario` (`Identificador` INT(255) NOT NULL AUTO_INCREMENT , `es` VARCHAR(255) NOT NULL , `en` VARCHAR(255) NOT NULL , `de` VARCHAR(255) NOT NULL , `fr` VARCHAR(255) NOT NULL , `it` VARCHAR(255) NOT NULL , PRIMARY KEY (`Identificador`)) ENGINE = InnoDB;

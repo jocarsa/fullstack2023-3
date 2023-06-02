@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Aprendiendo jQuery</title>
+        <meta charset="utf-8">
+        <script src="../jquery-3.7.0.min.js"></script>
+        <script>
+            $(document).ready(function(){
+                $("#pulsame").click(function(){
+                    $("#elemento").slideToggle("slow")
+                })
+            })
+        </script>
+        <style>
+            #elemento{
+                width:400px;
+                height:400px;
+                color:black;
+                transition:all 1s;
+                 background:red;
+                position:absolute;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <button id="pulsame">Púlsame</button>
+        <div id="elemento">
+            Este es el contenido del div
+        </div>
+    </body>
+</html>

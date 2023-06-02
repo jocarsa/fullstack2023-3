@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Aprendiendo jQuery</title>
+        <meta charset="utf-8">
+        <script src="../jquery-3.7.0.min.js"></script>
+        <script>
+            // Cuando el documento esté preparado
+            $(document).ready(function(){
+                // Cuando sobre el botón haga click
+                $("#ocultar").click(function(){
+                    // Oculta la tabla
+                    $("table").hide()
+                })
+                // Cuando sobre el botón haga click
+                $("#mostrar").click(function(){
+                    // Oculta la tabla
+                    $("table").show()
+                })
+            })
+        </script>
+    </head>
+    <body>
+        <button id="mostrar">Mostrar</button>
+        <button id="ocultar">Ocultar</button>
+        <table>
+            <tr>
+                <td>Nombre</td>
+                <td>Telefono</td>
+                <td>Email</td>
+            </tr>
+            <tr>
+                <td>Jose</td>
+                <td>52354</td>
+                <td>jose@jose.com</td>
+            </tr>
+            <tr>
+                <td>Juan</td>
+                <td>52345</td>
+                <td>juan@jose.com</td>
+            </tr>
+            <tr>
+                <td>Jorge</td>
+                <td>54654</td>
+                <td>jorge@jose.com</td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Aprendiendo jQuery</title>
+        <meta charset="utf-8">
+        <script src="../jquery-3.7.0.min.js"></script>
+        <script>
+            $(document).ready(function(){
+                $("#pulsame").click(function(){
+                    var anchura = $("#rojo").width()
+                    console.log(anchura)
+                    var altura = $("#rojo").height()
+                    console.log(altura)
+                    $("#rojo").width(200)
+                    $("#rojo").height(200)
+                })
+            })
+        </script>
+        <style>
+            #rojo{
+                width:400px;
+                height:400px;
+                background:red;
+                color:white;
+                transition:all 1s;
+            }
+        </style>
+    </head>
+    <body>
+        <button id="pulsame">Púlsame</button>
+        <div id="rojo">
+            Este es el contenido del div
+        </div>
+    </body>
+</html>

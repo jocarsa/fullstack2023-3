@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Aprendiendo jQuery</title>
+        <meta charset="utf-8">
+        <script src="../jquery-3.7.0.min.js"></script>
+        <script src="../jquery-ui.min.js"></script>
+        <link rel="Stylesheet" href="../jquery-ui.min.css">
+        <link rel="Stylesheet" href="../jquery-ui.theme.min.css">
+        <link rel="Stylesheet" href="../jquery-ui.structure.min.css">
+        <script>
+            $(document).ready(function(){
+                $("input").change(function(){
+                    if($("input").val() != "josevicente"){
+                        $(this).effect("shake",{},1000)
+                        $(this).css("background","rgb(255,200,200)")
+                    }else{
+                        $(this).css("background","rgb(200,255,200)")
+                    }
+                })
+            })
+        </script>
+        <style>
+            input{
+                padding-top:10px;
+                padding-bottom:10px;
+            }
+        </style>
+    </head>
+    <body>
+        <input type="text">
+    </body>
+</html>
