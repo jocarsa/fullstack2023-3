@@ -1,0 +1,13 @@
+body,html{
+    background:grey;
+    font-family: sans-serif;
+    width:100%;
+    height:100%;
+}
+.pantalla{
+    width:1080px;
+    height:1920px;
+    background:white;
+    border:1px solid black;
+    float:left;
+}

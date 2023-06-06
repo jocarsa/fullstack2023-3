@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Chat</title>
+        <meta charset="utf-8">
+        <link rel="Stylesheet" href="css/estilo.css">
+        <script src="lib/jquery-3.7.0.min.js"></script>
+        <script src="js/codigo.js"></script>
+    </head>
+    <body>
+        <div id="contenedor">
+            <div id="login" class="pantalla">
+                <h1>Login</h1>
+                <input type="text" id="usuario">
+                <input type="text" id="contrasena">
+                <button id="enviarlogin">Iniciar sesión</button>
+            </div>
+            <div id="usuarios" class="pantalla">
+                <h1>Chats</h1>
+                <input type="text" id="buscador">
+                <div id="contactos">
+                    <div class="contacto">
+                        <div class="fotocontacto"></div>
+                        <h3>Nombre del contacto</h3>
+                        <p id="ultimochat">Lo ultimo</p>
+                    </div>
+                    <div class="contacto">
+                        <div class="fotocontacto"></div>
+                        <h3>Nombre del contacto</h3>
+                        <p id="ultimochat">Lo ultimo</p>
+                    </div>
+                    <div class="contacto">
+                        <div class="fotocontacto"></div>
+                        <h3>Nombre del contacto</h3>
+                        <p id="ultimochat">Lo ultimo</p>
+                    </div>
+                    <div class="contacto">
+                        <div class="fotocontacto"></div>
+                        <h3>Nombre del contacto</h3>
+                        <p id="ultimochat">Lo ultimo</p>
+                    </div>
+                </div>
+            </div>
+            <div id="chat" class="pantalla">
+                <header>
+                    <h1>&lt;</h1>
+                    <div id="iconousuario"></div>
+                    <h3>Nombre usuario</h3>
+                    <div class="clearfix"></div>
+                </header>
+                <main>
+                    Mensajes
+                </main>
+                <footer>
+                    <input type="text" id="nuevomensaje">
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Chat</title>
+        <meta charset="utf-8">
+        <link rel="Stylesheet" href="css/estilo.css">
+        <script src="lib/jquery-3.7.0.min.js"></script>
+        <script src="lib/jquery.cookie.js"></script>
+        <script src="js/codigo.js"></script>
+        <script src="js/buclemensajes.js"></script>
+    </head>
+    <body>
+        <div id="contenedor">
+            <div id="login" class="pantalla">
+                <h1>Inicia sesión</h1>
+                <input type="text" id="usuario" placeholder="Usuario:">
+                <input type="text" id="contrasena" placeholder="Contraseña:">
+                <button id="enviarlogin">Iniciar sesión</button>
+                <h1>Regístrate</h1>
+                <input type="text" id="nuevousuario" placeholder="Usuario:">
+                <input type="text" id="nuevacontrasena" placeholder="Contraseña:">
+                <input type="text" id="nuevonombrecompleto" placeholder="Nombre:">
+                <input type="file" id="nuevafoto" placeholder="Foto:">
+                <button id="enviarregistro">Iniciar sesión</button>
+            </div>
+            <div id="usuarios" class="pantalla">
+                <h1>Chats</h1>
+                <input type="text" id="buscador">
+                <div id="contactos">
+                    
+                </div>
+            </div>
+            <div id="chat" class="pantalla">
+                <header>
+                    <h1 id="volver">&lt;</h1>
+                    <div id="iconousuario"></div>
+                    <h3>Nombre usuario</h3>
+                    <div class="clearfix"></div>
+                </header>
+                <main>
+                    Mensajes
+                </main>
+                <footer>
+                    <input type="text" id="nuevomensaje">
+                </footer>
+                <div id="ajax"></div>
+            </div>
+        </div>
+    </body>
+</html>
